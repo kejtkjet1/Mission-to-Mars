@@ -13,7 +13,5 @@ We first scraped data to pull in recent news about mars that we can feed into ou
 ## Final product
 
 The final website looks like the below images, and can be updated by scraping the newest available information when the sources update. 
-
-![image1.png](https://github.com/kejtkjet1/Mission-to-Mars/tree/main/images/image1.png)
-![image2.png](https://github.com/kejtkjet1/Mission-to-Mars/tree/main/images/image2.png)
-
+![image1](https://user-images.githubusercontent.com/87611145/138614057-707e888e-1ccd-4601-80ea-c73dae6bc4ea.png)
+![image2](https://user-images.githubusercontent.com/87611145/138614063-e9309976-8d74-44e9-9f2d-8cc5228fcca3.png)
