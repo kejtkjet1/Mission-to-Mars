@@ -16,3 +16,4 @@ The final website looks like the below images, and can be updated by scraping th
 
 ![image1.png](https://github.com/kejtkjet1/Mission-to-Mars/tree/main/images/image1.png)
 ![image2.png](https://github.com/kejtkjet1/Mission-to-Mars/tree/main/images/image2.png)
+
